@@ -5,8 +5,7 @@ as positive, negative or neutral and then generates a pie chart
 categorizing a user’s tweets.
 
 This is one of the first tasks made with Python. To implement it I had to figure out
-what is it Flask, what are API is (Twitter API particularly) 
-and how to use libraries (nltk for this task).
+what are Flask and API (Twitter API particularly) and how to use libraries (nltk for this task).
 
 I had some distribution code but I fully implemented following functions:
 
